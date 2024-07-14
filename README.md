@@ -36,3 +36,4 @@ This project is licensed under the MIT License.
 
 ## Acknowledgements
 [MiniAiLive/ID-Document-Recognition-Demo](https://huggingface.co/spaces/MiniAiLive/ID-Document-Recognition-Demo)
+[Build a webapi to recognize credit card](https://medium.com/@casl2/build-a-webapi-to-recognize-credit-card-bank-a694863d75c2)
